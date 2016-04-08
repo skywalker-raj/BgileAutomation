@@ -1,0 +1,13 @@
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\QABgileApp.Test.dll
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\QABgileApp.Test.pdb
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\nunit.framework.dll
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\QABgileApp.Framework.dll
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\WebDriver.dll
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\WebDriver.Support.dll
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\QABgileApp.Framework.pdb
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\nunit.framework.xml
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\WebDriver.xml
+C:\Development\Work\QABgileApp\QABgileApp.Test\bin\Debug\WebDriver.Support.xml
+C:\Development\Work\QABgileApp\QABgileApp.Test\obj\Debug\QABgileApp.Test.csprojResolveAssemblyReference.cache
+C:\Development\Work\QABgileApp\QABgileApp.Test\obj\Debug\QABgileApp.Test.dll
+C:\Development\Work\QABgileApp\QABgileApp.Test\obj\Debug\QABgileApp.Test.pdb

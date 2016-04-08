@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QABgileApp.Framework", "QABgileApp.Framework\QABgileApp.Framework.csproj", "{19B05BEA-BD76-4163-9367-F9DE8D621EE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8321CEDA-B1BB-4F27-A061-0C07B34D6950}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QABgileApp.Build", "QABgileApp.Build\QABgileApp.Build.csproj", "{230F2043-5448-437E-B2CD-153E7C1B3B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QABgileApp.Test", "QABgileApp.Test\QABgileApp.Test.csproj", "{F193F19B-DA9A-4E0C-B4F3-0238573111E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B05BEA-BD76-4163-9367-F9DE8D621EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B05BEA-BD76-4163-9367-F9DE8D621EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B05BEA-BD76-4163-9367-F9DE8D621EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B05BEA-BD76-4163-9367-F9DE8D621EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230F2043-5448-437E-B2CD-153E7C1B3B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230F2043-5448-437E-B2CD-153E7C1B3B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F193F19B-DA9A-4E0C-B4F3-0238573111E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F193F19B-DA9A-4E0C-B4F3-0238573111E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F193F19B-DA9A-4E0C-B4F3-0238573111E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F193F19B-DA9A-4E0C-B4F3-0238573111E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

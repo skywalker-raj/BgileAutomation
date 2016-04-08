@@ -1,0 +1,2 @@
+C:\Development\Work\QABgileApp.Framework\QABgileApp.Build\bin\Release\QABgileApp.Build.exe.config
+C:\Development\Work\QABgileApp\QABgileApp.Build\bin\Release\QABgileApp.Build.exe.config

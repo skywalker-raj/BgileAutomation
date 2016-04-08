@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="0" result="Failed" label="Invalid" total="0" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.0.5813.39036" clr-version="4.0.30319.42000" start-time="2016-01-01 05:18:47Z" end-time="2016-01-01 05:18:47Z" duration="0.030971">
+  <command-line><![CDATA["C:\NUnit-3.0.1\bin\nunit3-console.exe"  "QABgileApp.Build.exe" ]]></command-line>
+  <test-suite type="Assembly" id="0-1" name="QABgileApp.Build.exe" fullname="C:\Development\Work\QABgileApp\QABgileApp.Build\bin\Debug\QABgileApp.Build.exe" testcasecount="0" runstate="NotRunnable" result="Failed" label="Invalid">
+    <properties>
+      <property name="_SKIPREASON" value="File not found: C:\Development\Work\QABgileApp\QABgileApp.Build\bin\Debug\QABgileApp.Build.exe" />
+    </properties>
+    <reason>
+      <message>File not found: C:\Development\Work\QABgileApp\QABgileApp.Build\bin\Debug\QABgileApp.Build.exe</message>
+    </reason>
+  </test-suite>
+</test-run>

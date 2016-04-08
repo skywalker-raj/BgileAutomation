@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Eyes.Selenium</id>
+    <version>1.52</version>
+    <authors>Applitools</authors>
+    <owners>Applitools</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://applitools.com/</projectUrl>
+    <iconUrl>https://eyeswestus.blob.core.windows.net/eyes-images/applitoolseye30x30.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Applitools Eyes adds automated visual validation to your Selenium tests. With Applitools Eyes, you can automatically validate the correctness of your application's  UI layout, content and appearance. To learn more, visit http://applitools.com.</description>
+    <summary>Applitools Eyes SDK for Selenium .NET WebDriver</summary>
+    <releaseNotes>* General bug fix in javascript executed scripts.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>applitools eyes net40 net45 selenium</tags>
+  </metadata>
+</package>

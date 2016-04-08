@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Set up the properties appropriate for your local environment-->
+<project name="GlobalBuildSettings" xmlns="http://nant.sf.net/nightly/2015-11-10-0.93/nant.xsd">	
+  <!--Location where you want source built in your local workspace -->
+	<property name="local.buildspace" value="‪C:\Development\Builds"/>
+
+	<!--Location where you edit code during development -->
+	<property name="local.workspace" value="‪C:\Development\Work"/>
+	
+	<!--Location where you want source packaged up to be released -->
+	<property name="local.releasespace" value="‪C:\Development\Releases"/>
+
+	<!--Location where Msbuild for .Net 4.0 is installed-->
+	<property name="msbuild4.exe" value="C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe"/>
+
+	<!--Location for Powershell-->
+	<property name="powershell.exe" value="C:\Windows\system32\WindowsPowerShell\v1.0\powershell.exe" />
+	
+	<!--Location for Nunit Console-->
+	<property name="nunit-console.exe" value="‪‪C:\NUnit-3.0.1\bin\nunit3-console.exe" />
+</project>
